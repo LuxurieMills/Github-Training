@@ -1,0 +1,19 @@
+# GitHub Learning Notes
+
+## Goal
+Learn how to use GitHub to document bioinformatics projects.
+
+## Skills I am building
+- Git/GitHub
+- Python
+- Scanpy
+- Single-cell RNA sequencing
+- Reproducible workflows
+
+## Day 1
+Today I learned:
+- Git tracks changes
+- GitHub stores repositories online
+- Commits save checkpoints
+- Push uploads changes
+- README explains projects
